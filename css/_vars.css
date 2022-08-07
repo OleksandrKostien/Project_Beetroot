@@ -1,0 +1,7 @@
+/* Файл для изменения данных */
+
+:root {
+    --background-main: linear-gradient(80deg, #8a838a, #a9c1d1);
+    --font-main: 18px;
+    --background-btn: linear-gradient(10deg, #0000, #ffddff);
+}
